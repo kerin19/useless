@@ -39,7 +39,7 @@ python anti_assistant.py
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/kerin19/useless/blob/93733a564f149eb9dea091273cca4da88b973cc6/Screenshot%202025-08-02%20062556.png" />
 Startup screen of Anti-Assistant 2.0. The user is greeted with a bold, blood-red header, and a painfully honest subtitle: "The world's most unhelpful assistant." The default sarcastic welcome message in the chat window sets the tone for the chaos that follows.
 
@@ -62,6 +62,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
