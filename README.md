@@ -41,13 +41,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/kerin19/useless/blob/93733a564f149eb9dea091273cca4da88b973cc6/Screenshot%202025-08-02%20062556.png" />
-*Add caption explaining what this shows*
+Startup screen of Anti-Assistant 2.0. The user is greeted with a bold, blood-red header, and a painfully honest subtitle: "The world's most unhelpful assistant." The default sarcastic welcome message in the chat window sets the tone for the chaos that follows.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/kerin19/useless/blob/bcbf5fbe3b58085887a5f8f14f600ffc66a04259/Screenshot%202025-08-02%20070143.png" />
-*Add caption explaining what this shows*
+Here, the user submits a question—most likely expecting help. Instead, Anti-Assistant responds with a devastating three-part combo: a sarcastic starter, a ridiculous insult, and a passive-aggressive follow-up. Classic Anti-Assistant behavior.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/kerin19/useless/blob/af8577a3c94fa7e62e5108f86eea728d9fd0d95e/Screenshot%202025-08-02%20070313.png" />
-*Add caption explaining what this shows*
+This screenshot captures multiple interactions in the chat area. It showcases how each input from the user receives a completely unique, randomly generated roast using the Anti-Assistant's massive database of sarcastic phrases. UI elements like colored text for user vs bot add clarity.
 
 ### Project Demo
 # Video
@@ -62,6 +62,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
