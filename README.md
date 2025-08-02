@@ -51,7 +51,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://github.com/kerin19/useless/blob/8776a26dd06cb6308be9897e01fb50eb11db8041/Screen%20Recording%202025-08-02%20062605_2.mp4
 *Explain what the video demonstrates*
 
 ## Team Contributions
@@ -62,6 +62,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
