@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [proj name] 🎯
+# Anti-Assistant 2.0 🎯
 
 
 ## Basic Details
@@ -12,34 +12,29 @@
 - Team Lead: Kerin Shaiju - RIT KOTTAYAM
 
 ### Project Description
-[2-3 lines about what your project does]
+A rude, unhelpful, and gloriously disrespectful chatbot that gives you the roast you didn’t ask for. Think ChatGPT, but emotionally damaged and legally questionable.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are too nice online. Customer service bots are too helpful. We thought: what if they weren’t?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built an Anti-Assistant. It doesn’t solve problems. It creates them. Sarcastically.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Languages: Python
+Frameworks: Tkinter
+Libraries: PIL, itertools, random
+Tools: Your feelings, and we crushed them
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install pillow
 
 # Run
-[commands]
+python anti_assistant.py
 
 ### Project Documentation
 For Software:
@@ -54,47 +49,20 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Kerin Shaiju : UI design, sarcasm generator, emotional trauma injector
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
